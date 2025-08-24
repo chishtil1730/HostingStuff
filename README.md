@@ -4,8 +4,7 @@ This repository contains the source code for my personal website project.
 The goal of this project was to design, develop, and host a static website directly from GitHub.
 
 ## 🌐 Live Website
-You can view the hosted site here: [Website]([https://chishtil1730.github.io/HostingStuff/](https://chishtil1730.github.io/HostingStuff/website2/index.html))  
-*(Update the above link if you’ve hosted it somewhere else)*
+You can view the hosted site here: [Website](https://chishtil1730.github.io/HostingStuff/website2/index.html)  
 
 ## 📝 Introduction
 This website is a simple static site created to showcase my web development experiments.  
